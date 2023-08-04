@@ -1,0 +1,116 @@
+{"restaurants":[
+    {
+        "id": 1,
+        "name": "Soshi Restaurant",
+        "image":"https://images.unsplash.com/photo-1513442542250-854d436a73f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=947&q=80",
+        "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "rating":"4.5",
+        "restaurant_id": 1,
+        "food":[
+            {
+                 "id": 1,
+                 "food": "Ugali Matumbo",
+                 "image":"https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+                "rating":3.5,
+                "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
+                 "price": 456,
+                 "restaurant_id": 1,
+                 "category":"drinks"
+             },
+             {
+                 "id": 2,
+                 "food": "Rice Beef",
+                 "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                 "rating":4.5,
+                 "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
+                 "price": 500,
+                 "restaurant_id": 3,
+                 "category":"smokedberberque"
+             },
+             {
+                "id": 3,
+                "food": "Chapati stew",
+                "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                "rating":1.5,
+                "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
+                "price": 456,
+                "restaurant_id": 1,
+                "category":"salad"
+
+            },
+            {
+                "id": 4,
+                "food": "pasta",
+                "image":"https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+                "rating":2.5,
+                "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
+                "price": 500,
+                "restaurant_id": 3,
+                "category":"drinks"
+            }
+         ]
+         
+    },
+    {
+        "id": 2,
+        "name": "Heroku",
+        "image":"https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "rating":"3.5",
+        "restaurant_id": 2,
+        "food":[
+            {
+                 "id": 1,
+                 "food": "Ugali Matumbo",
+                 "image":"",
+                 "rating":1.5,
+                 "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
+                 "price": 456,
+                 "restaurant_id": 1,
+                 "category":"drinks"
+             },
+             {
+                 "id": 2,
+                 "food": "Rice Beef",
+                 "image":"",
+                 "rating":0.5,
+                 "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
+                 "price": 500,
+                 "restaurant_id": 3,
+                 "category":"salad"
+             },
+             {
+                "id": 3,
+                "food": "Chapati stew",
+                "image":"https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=780&q=80",
+                "rating":2.5,
+                "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
+                "price": 456,
+                "restaurant_id": 1,
+                "category":"drinks"
+            },
+            {
+                "id": 4,
+                "food": "pasta",
+                "image":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=781&q=80",
+                "rating":4.5,
+                "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
+                "price": 500,
+                "restaurant_id": 3,
+                "category":"salad"
+            }
+         ]
+    }
+],
+
+
+"orders": [
+    {
+        "restaurant_id":"",
+        "Table":"",
+        "food":""
+    }
+
+    
+]
+}
