@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Muchai248/restaurant.git"
+    "url": "git+https://github.com/Muchai248/restaurant2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Muchai248/restaurant.git/issues"
+    "url": "https://github.com/Muchai248/restaurant2.git/issues"
   },
-  "homepage": "https://github.com/Muchai248/restaurant.git#readme",
+  "homepage": "https://github.com/Muchai248/restaurant2.git#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "j": "^1.0.0",
